@@ -6,7 +6,8 @@ let imgs = {
     "HackerRank"  : "https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" , 
     "CodeChef"    : "https://cdn.codechef.com/images/cc-logo.svg" , 
     "AtCoder"     : "https://i.ytimg.com/vi/2kGhxVdSlTQ/mqdefault.jpg" , 
-    "LeetCode"    : "https://leetcode.com/static/webpack_bundles/images/logo-dark.e99485d9b.svg"
+    "LeetCode"    : "https://leetcode.com/static/webpack_bundles/images/logo-dark.e99485d9b.svg",
+    "CodeForces::Gym" : "https://codeforces.org/s/85770/images/codeforces-sponsored-by-ton.png"
 };
 
 
